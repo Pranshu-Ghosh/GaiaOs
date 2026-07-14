@@ -1,0 +1,5 @@
+day 1 
+got the basics of github 
+first practice of fastapi nothing built yet just ran my first app 
+tommorow i will work on it more and start fleshing out the actual app
+
